@@ -12,9 +12,7 @@
 	 */
 	class Parser
 	{
-		const MARKDOWN_VERSION              = '1.0.1n';
-		const MARKDOWNEXTRA_VERSION         = '1.2.4';
-
+		const VERSION                       = '1.0.1n';
 		const MARKDOWN_EMPTY_ELEMENT_SUFFIX = ' />';
 		const MARKDOWN_TAB_WIDTH            = 4;
 
